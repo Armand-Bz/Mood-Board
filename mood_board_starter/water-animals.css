@@ -1,0 +1,19 @@
+/* Set up colour palette and fonts using variables */
+
+:root {
+  --primary: #0307ff;
+  --onprimary: #ffffff;
+  --secondary: #ff0000;
+  --onsecondary: #ffffff;
+  --tertiary: #1100ff;
+  --ontertiary: #ffffff;
+  --page: #2724f7;
+  --onpage: #ffffff;
+  --detail: #e5ff00;
+  --detail2: #e5ff00;
+  
+  --body-font: 1rem Verdana, sans-serif;
+  --header-font: lighter 3rem 'Shrikhand', cursive;
+  --title-font: lighter 2rem 'Shrikhand', cursive;
+  --quote-font: lighter 1.5rem 'Shrikhand', cursive;
+}
